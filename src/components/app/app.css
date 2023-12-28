@@ -1,0 +1,9 @@
+.info {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  border: yellow 5px solid;
+}
+.toggle-planet {
+  margin-bottom: 1rem;
+}
